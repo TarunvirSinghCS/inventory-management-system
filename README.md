@@ -104,7 +104,3 @@ Select an option: 2
 - [ ] Transaction history / audit log
 
 ---
-
-## License
-
-MIT
