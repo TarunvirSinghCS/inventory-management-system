@@ -1,0 +1,37 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Mouse",
+    "quantity": 42,
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P002",
+    "name": "USB-C Cable",
+    "quantity": 3,
+    "price": 12.49,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P003",
+    "name": "Notebook (A5)",
+    "quantity": 18,
+    "price": 5.99,
+    "category": "Stationery"
+  },
+  {
+    "product_id": "P004",
+    "name": "Ballpoint Pens (Pack of 10)",
+    "quantity": 2,
+    "price": 3.49,
+    "category": "Stationery"
+  },
+  {
+    "product_id": "P005",
+    "name": "Standing Desk Mat",
+    "quantity": 7,
+    "price": 44.95,
+    "category": "Office Furniture"
+  }
+]
